@@ -1,0 +1,11 @@
+/* Fim de semana */
+prog algoritmo4
+	imprima "1 - vejo a previsao do tempo\n";
+	imprima "2 - se (fizer sol)\n";
+	imprima "   vou a praia\n";
+	imprima "   senao\n";
+	imprima "   vou estudar\n";
+	imprima "3 - almocar\n";
+	imprima "4 - ver televisao\n";
+	imprima "5 - dormir\n";
+fimprog 
