@@ -1,0 +1,7 @@
+/* Mascar um chiclete */
+prog algoritmo2
+	imprima "1 - pegar o chiclete";
+	imprima "2 - retirar o papel";
+	imprima "3 - mastigar";
+	imprima "4 - jogar o papel no lixo";
+fimprog	
