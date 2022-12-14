@@ -1,0 +1,13 @@
+/* Algoritmo para levar um leão, uma cabra e um pedaço
+ de grama de um lado para outro de um rio, atravessando
+ com um bote. Sabe-se que nunca o leão pode ficar sozinho
+ com a cabra nem a cabra sozinha com a grama */
+ prog algoritmo10
+	imprima "1 - Levar a grama e o leao\n";
+	imprima "2 - Voltar com o leao\n";
+	imprima "3 - Deixar o leao\n";
+	imprima "4 - Levar a cabra\n";
+	imprima "5 - Deixar a cabra\n";
+	imprima "6 - Voltar com a grama\n";
+	imprima "7 - Levar o leao e a grama\n";
+fimprog 
