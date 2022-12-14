@@ -1,0 +1,11 @@
+/* Algoritmo para fazer uma prova */
+prog algoritmo7
+	imprima "1 - ler a prova\n";
+	imprima "2 - pegar a caneta\n";
+	imprima "3 - enquanto ((houver questao em branco) e (tempo nao terminou)) faca\n";
+	imprima "	se (souber a questao)\n";
+	imprima "		resolve-la\n";
+	imprima "	senao\n";
+	imprima "		pular para outra\n";
+	imprima "4 - entregar a prova";
+fimprog 
