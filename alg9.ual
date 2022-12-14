@@ -1,0 +1,14 @@
+/* Algoritmo para jogar o jogo da velha */
+prog algoritmo9
+	imprima "enquanto ((existir um quadrado livre) e (ninguem perdeu (ganhou) o jogo))\n";
+	imprima "	espere a jogada do adversario, continue depois\n";
+	imprima "	se (existir um quadrado livre)\n";
+	imprima "		se (centro livre)\n";
+	imprima "			jogue no centro\n";
+	imprima "		senao\n";
+	imprima "			se (adversario tem 2 quadrados em linha com o terceiro desocupado\n";
+	imprima "				jogue neste quadrado desocupado\n";
+	imprima "			senao\n";
+	imprima "				se (ha algum canto livre)\n";
+	imprima "					jogue neste canto\n";
+fimprog 
