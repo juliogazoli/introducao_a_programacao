@@ -1,0 +1,10 @@
+/* Algoritmo para jogar o jogo da forca */
+prog algoritmo8
+	imprima "1 - escolher a palavra\n";
+	imprima "2 - montar o diagrama do jogo\n";
+	imprima "3 - enquanto ((houver lacunas vazias) e (corpo incompleto)) faca\n";
+	imprima "	se (acertar uma letra)\n";
+	imprima "		escrever na lacuna correspondente\n";
+	imprima "	senao\n";
+	imprima "		desenhar uma parte do corpo na forca\n";
+fimprog 
