@@ -1,0 +1,10 @@
+/* Trocar lampadas */
+prog algoritmo3
+	imprima "1 - se (lampada estiver fora de alcance)";
+	imprima "   pegar escada";
+	imprima "2 - pegar a lampada";
+	imprima "3 - se (lampada estiver quente)";
+	imprima "   pegar pano";
+	imprima "4 - Tirar lampada queimada";
+	imprima "5 - Colocar lampada boa";
+fimprog 
