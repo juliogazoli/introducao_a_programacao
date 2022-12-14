@@ -1,0 +1,7 @@
+/* Algoritmo para descascar batatas */
+prog algoritmo6
+	imprima "1 - pegar faca, bacia e batatas\n";
+	imprima "2 - colocar agua na bacia\n";
+	imprima "3 - enquanto (houver batatas)\n";
+	imprima "	descascar batatas\n";
+fimprog 
