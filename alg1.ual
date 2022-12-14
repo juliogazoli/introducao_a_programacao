@@ -1,0 +1,10 @@
+/* Fritar ovo */
+prog algoritmo1 
+    imprima "1 - pegar frigideira, ovo, oleo e sal\n";
+    imprima "2 - colocar oleo na frigideira\n";
+    imprima "3 - acender o fogo\n";
+    imprima "4 - colocar a frigideira no fogo\n";
+    imprima "5 - esperar o oleo esquentar\n";
+    imprima "6 - colocar o ovo\n";
+    imprima "7 - retirar quando pronto\n";
+fimprog 
