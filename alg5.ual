@@ -1,0 +1,15 @@
+/* Bolo simples */
+prog algoritmo5
+	imprima "1 - pegar os ingredientes\n";
+	imprima "2 - se (roupa branca)\n";
+	imprima "   colocar avental\n";
+	imprima "3 - se (tiver batedeira)\n";
+	imprima "   bater os ingredientes na batedeira\n";
+	imprima "   senao\n";
+	imprima "   bater os ingredientes a mao\n";
+	imprima "4 - colocar a massa na forma\n";
+	imprima "5 - colocar a forma no forno\n";
+	imprima "6 - aguardar o tempo necessario\n";
+	imprima "7 - retirar o bolo";
+fimprog
+	
