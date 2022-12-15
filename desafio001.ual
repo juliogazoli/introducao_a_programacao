@@ -1,0 +1,18 @@
+/* Fazer um algoritmo para levar 3 missionários e 3 canibais de um
+lado para outro de um rio, atravessando com um bote. Sabe-se que
+nunca pode ter mais missionários do que canibais porque senão os
+missionários catequizam os canibais. O que fazer para levar os 6 de
+uma margem para outra? */
+prog desafio1
+	imprima " 1 - Levar um Missionario e um Canibal\n";
+	imprima " 2 - Voltar um Canibal\n";
+	imprima " 3 - Levar dois Missionarios\n";
+	imprima " 4 - Voltar um Missionario\n";
+	imprima " 5 - Levar dois Canibais\n";
+	imprima " 6 - Voltar um Missionario e um Canibal\n";
+	imprima " 7 - Levar dois Canibais\n";
+	imprima " 8 - Voltar um Missionario\n";
+	imprima " 9 - Levar dois Missionarios\n";
+	imprima "10 - Voltar um Missionario\n";
+	imprima "11 - Levar dois Missionarios\n";
+fimprog 
