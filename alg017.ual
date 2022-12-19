@@ -1,0 +1,6 @@
+/* Algoritmo 17 */
+prog imp7
+	int x;
+	x <- 10;
+	imprima "Valor de x = ", x;
+fimprog 
