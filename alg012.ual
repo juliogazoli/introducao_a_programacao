@@ -1,0 +1,5 @@
+/* Algoritmo 12 */
+prog imp2
+	imprima "Aprendendo Algoritmo!!!";
+	imprima "Com Anita e Guto";
+fimprog 
