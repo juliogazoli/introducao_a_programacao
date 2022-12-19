@@ -1,0 +1,4 @@
+/* Algoritmo 11 */
+prog imp1
+	imprima "Aprendendo Algoritmo!!!";
+fimprog 
