@@ -1,0 +1,6 @@
+/* Algoritmo 16 */
+prog imp6
+	int x;
+	x <- 10;
+	imprima "Valor de x = ", x;
+fimprog 
