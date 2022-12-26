@@ -1,0 +1,17 @@
+/* Algoritmo 22 */
+prog teste
+	imprima "\nTESTANDO HIERARQUIA";
+	imprima "\n\n18 / 6 % 2 e igual a: ",18 / 6 % 2;
+	imprima "\nUma operacao de divisao fora de parenteses nao pode ser um dos operandos de uma expressao com %.";
+	imprima "\n\n20 / 4 div 2 e igual a: ",20 / 4 div 2;
+	imprima "\nE IGUAL a (20 / 4) div 2: ",(20 / 4) div 2, ", logo div tem a MESMA HIERARQUIA";
+	imprima " da /";
+	imprima "\n\n30 / 4 div 2 e igual a: ",30 / 4 div 2;
+	imprima "\nE IGUAL a (30 / 4) div 2: ",(30 / 4) div 2, ", logo div tem a MESMA HIERARQUIA";
+	imprima " da /";
+	imprima "\n\n7. div 4: ",7.0 div 4;
+	imprima "\n7 div 4: ",7 div 4;
+	imprima "\n6. div 4: ",6.0 div 4;
+	imprima "\n6 div 4: ",6 div 4;
+	imprima "\n";
+fimprog 
